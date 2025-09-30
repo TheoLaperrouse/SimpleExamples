@@ -1,0 +1,20 @@
+{
+  "name": "openapiexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1",
+    "express": "^5.1.0",
+    "express-openapi-validator": "^5.6.0",
+    "yaml": "^2.8.1"
+  }
+}
